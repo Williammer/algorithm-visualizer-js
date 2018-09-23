@@ -1,0 +1,18 @@
+.list {
+  padding: 0;
+  height: 300px;
+  display: flex;
+  list-style: none;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.bar {
+  transition: height 0.2s;
+  font-size: 12px;
+  background: rgb(64, 169, 243);
+  text-align: center;
+  color: #FFF;
+  padding: 0 6px;
+  margin: 0 4px;
+}
